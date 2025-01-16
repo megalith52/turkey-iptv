@@ -1,0 +1,32 @@
+name: nowtur1 action
+
+on:
+  schedule:
+    - cron: '03 */3 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - uses: actions/checkout@v3
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "bot"
+
+      - name: import python modules
+        run: | 
+          pip install requests
+          
+      - name: update
+        run: | 
+          ./generate.sh
+      - name: commit & push
+        run: |
+          git add .
+          git commit -m "Updated list"
+          git push
