@@ -11,7 +11,7 @@ for script in src/channels/*.py; do
         name="${BASH_REMATCH[1]}"
         url="${BASH_REMATCH[2]}"
 
-        echo "#EXTINF:-1 tvg-logo=\"https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/${name,,}.png\" group-title=\"Ulusal\",$name" >> "$output_file"
+        echo "#EXTINF:-1 tvg-logo=\"https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/${name,,}.png\" group-title=\"no-group\",$name" >> "$output_file"
         echo "$url" >> "$output_file"
     else
         echo "Error: $output" >&2

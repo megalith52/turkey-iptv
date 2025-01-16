@@ -1,0 +1,1 @@
+print("TRT1:", "https://tv-trt1.medya.trt.com.tr/master.m3u8")

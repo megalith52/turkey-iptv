@@ -1,9 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/kanald.png" group-title="Ulusal",KANALD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/halktv.png" group-title="no-group",HALKTV
+https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/kanald.png" group-title="no-group",KANALD
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&amp;ce=3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/now.png" group-title="Ulusal",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=mZqge9uYqVizGC5yMzf73w&e=1737059291
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/show.png" group-title="Ulusal",SHOW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/now.png" group-title="no-group",NOW
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=j8rBwQSaIMEbtNOPBtgPWA&e=1737067696
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/ntv.png" group-title="no-group",NTV
+https://mn-nl.mncdn.com/dogusdyg_ntv/live_1080p3000000kbps/index.m3u8?st=SncOGwRL6WkQHb2F9d987w&e=1737139899
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/show.png" group-title="no-group",SHOW
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/tv8.png" group-title="Ulusal",TV8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/startv.png" group-title="no-group",STARTV
+https://mn-nl.mncdn.com/dogusdyg_star/live_1080p3000000kbps/index.m3u8?st=OQ3P2rZUD8TbBtC5cr-WVA&e=1737139901
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/teve2.png" group-title="no-group",TEVE2
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/trt1.png" group-title="no-group",TRT1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/tv8.png" group-title="no-group",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
