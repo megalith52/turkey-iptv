@@ -4,13 +4,13 @@ https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/kanald.png" group-title="no-group",KANALD
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&amp;ce=3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/now.png" group-title="no-group",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=o3BnnFrVccUDI8Etf-FgRw&e=1737069197
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=_glm5-npJG4VhDJWvU3JkQ&e=1737076732
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/ntv.png" group-title="no-group",NTV
-https://mn-nl.mncdn.com/dogusdyg_ntv/live_1080p3000000kbps/index.m3u8?st=Yv9R4420DE35RyVmtHMOuA&e=1737141468
+https://mn-nl.mncdn.com/dogusdyg_ntv/live_1080p3000000kbps/index.m3u8?st=dDrV4vDbv_iheNa9ZSN1RA&e=1737148849
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/show.png" group-title="no-group",SHOW
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/startv.png" group-title="no-group",STARTV
-https://mn-nl.mncdn.com/dogusdyg_star/live_1080p3000000kbps/index.m3u8?st=tQU-sfAQQ5t1i6j4T2EhjQ&e=1737141470
+https://mn-nl.mncdn.com/dogusdyg_star/live_1080p3000000kbps/index.m3u8?st=uywe5anGwZxh8VIWMM8wbQ&e=1737148851
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/teve2.png" group-title="no-group",TEVE2
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/trt1.png" group-title="no-group",TRT1
