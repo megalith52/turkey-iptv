@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/kanald.png" group-title="|TR|🇹🇷 ULUSAL GENEL",KANALD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/kanald.png" group-title="Ulusal",KANALD
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&amp;ce=3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/now.png" group-title="|TR|🇹🇷 ULUSAL GENEL",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=1s8EOhG9G8wpjn5oA0mN6Q&e=1737057790
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="|TR|🇹🇷 ULUSAL GENEL",TV8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/now.png" group-title="Ulusal",NOW
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=ywrbLzpQ8m-8W58GBTUjbA&e=1737058691
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/megalith52/turkey-iptv/refs/heads/main/src/resources/tv8.png" group-title="Ulusal",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
